@@ -253,19 +253,6 @@ Raw CSV Data → SQLite Database → SQL Transformations → Analytics Views →
 
 ---
 
-## 📊 Sample Visualizations
-
-### Executive Dashboard
-![Executive KPI Dashboard](https://via.placeholder.com/800x450/0f172a/ffffff?text=Executive+Dashboard+Preview)
-
-### Customer Segmentation
-![Customer Segments](https://via.placeholder.com/800x450/1e3a8a/ffffff?text=Customer+Segmentation+Matrix)
-
-### Regional Performance
-![Regional Map](https://via.placeholder.com/800x450/075985/ffffff?text=Bahamas+Regional+Performance)
-
----
-
 ## 🤝 Contributing
 
 This is a portfolio/demonstration project, but suggestions and improvements are welcome!
