@@ -1,0 +1,44 @@
+Column,Description,Data Type,Source
+customerID,Unique customer identifier,object,Original Kaggle Dataset
+gender,Customer gender (Male/Female),object,Original Kaggle Dataset
+SeniorCitizen,"Whether customer is senior citizen (1=Yes, 0=No)",int64,Original Kaggle Dataset
+Partner,Whether customer has a partner,object,Original Kaggle Dataset
+Dependents,Whether customer has dependents,object,Original Kaggle Dataset
+tenure,Number of months customer has stayed,int64,Original Kaggle Dataset
+PhoneService,Whether customer has phone service,object,Original Kaggle Dataset
+MultipleLines,Whether customer has multiple lines,object,Original Kaggle Dataset
+InternetService,Type of internet service,object,Original Kaggle Dataset
+OnlineSecurity,Whether customer has online security,object,Original Kaggle Dataset
+OnlineBackup,Whether customer has online backup,object,Original Kaggle Dataset
+DeviceProtection,Whether customer has device protection,object,Original Kaggle Dataset
+TechSupport,Whether customer has tech support,object,Original Kaggle Dataset
+StreamingTV,Whether customer has streaming TV,object,Original Kaggle Dataset
+StreamingMovies,Whether customer has streaming movies,object,Original Kaggle Dataset
+Contract,"Contract term (Month-to-month, One year, Two year)",object,Original Kaggle Dataset
+PaperlessBilling,Whether customer has paperless billing,object,Original Kaggle Dataset
+PaymentMethod,Payment method used,object,Original Kaggle Dataset
+MonthlyCharges,Monthly charge amount,float64,Original Kaggle Dataset
+TotalCharges,Total amount charged,float64,Original Kaggle Dataset
+Churn,Whether customer churned (Yes/No),object,Original Kaggle Dataset
+Region,Customer location in the Bahamas,object,Cable Bahamas Enrichment
+ServiceAvailability,Level of service availability in customer region,object,Cable Bahamas Enrichment
+PrimaryCompetitor,Main competitor in customer area,object,Cable Bahamas Enrichment
+ReceivedCompetitiveOffer,Whether customer received competitive offer,object,Cable Bahamas Enrichment
+MarketTenure,How long Cable Bahamas has operated in region (months),object,Cable Bahamas Enrichment
+ServicePackage,Cable Bahamas service package name,object,Cable Bahamas Enrichment
+PackagePrice_BSD,Package price in Bahamian Dollars,float64,Cable Bahamas Enrichment
+SupportTickets_LastYear,Number of support tickets in last 12 months,int64,Cable Bahamas Enrichment
+OutagesExperienced,Number of service outages experienced,int64,Cable Bahamas Enrichment
+SatisfactionScore,Customer satisfaction rating (1-10),float64,Cable Bahamas Enrichment
+PaymentReliabilityScore,Payment reliability score (0-100),float64,Cable Bahamas Enrichment
+OnlineAccountLogins_LastMonth,Online account logins last month,int64,Cable Bahamas Enrichment
+EstimatedCLV,Estimated Customer Lifetime Value,float64,Cable Bahamas Enrichment
+RevenueAtRisk,Annual revenue at risk (for churned customers),float64,Cable Bahamas Enrichment
+AvgPaymentDelayDays,Average payment delay in days,int64,Cable Bahamas Enrichment
+CurrentDiscount_Percent,Current discount percentage applied,int64,Cable Bahamas Enrichment
+SignupDate,Customer signup date,datetime64[ns],Cable Bahamas Enrichment
+SignupCohort,Signup cohort (Year-Month),object,Cable Bahamas Enrichment
+MonthsSinceLastChange,Months since last service change,int64,Cable Bahamas Enrichment
+ContractRenewalMonth,Contract renewal date,object,Cable Bahamas Enrichment
+EngagementScore,Calculated customer engagement score,float64,Cable Bahamas Enrichment
+ChurnRiskCategory,Churn risk level (Low/Medium/High),object,Cable Bahamas Enrichment
