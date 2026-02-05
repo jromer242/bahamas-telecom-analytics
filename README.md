@@ -286,7 +286,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Jose Romer**
+**Jyles Romer**
 - GitHub: [@jromer242](https://github.com/jromer242)
 - LinkedIn: [Jyles Romer](https://linkedin.com/in/jylesromer)
 
