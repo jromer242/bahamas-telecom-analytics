@@ -7,7 +7,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-2023+-orange.svg)](https://www.tableau.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-lightblue.svg)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![alt text](image.png)
+<!-- ![alt text](image.png) -->
 <!-- ![Project Banner](https://via.placeholder.com/1200x300/1e3a8a/ffffff?text=Bahamas+Telecom+Analytics) -->
 
 ---
