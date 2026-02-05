@@ -232,7 +232,7 @@ bahamas-telecom-analytics/
 ```
 Raw CSV Data → SQLite Database → SQL Transformations → Analytics Views → Tableau Dashboards
      ↓              ↓                    ↓                    ↓                ↓
-  main.py    cable_bahamas.db      sql/*.sql               vw_*.csv      tableau/*.twb
+  main.py    cable_bahamas.db        sql/*.sql             vw_*.csv      tableau/*.twb
 ```
 
 ### Key SQL Views
@@ -252,6 +252,19 @@ Raw CSV Data → SQLite Database → SQL Transformations → Analytics Views →
 - **Campaign ROI:** Expected value calculation per retention strategy
 
 ---
+<!-- 
+## 📊 Sample Visualizations
+
+### Executive Dashboard
+![Executive KPI Dashboard](https://via.placeholder.com/800x450/0f172a/ffffff?text=Executive+Dashboard+Preview)
+
+### Customer Segmentation
+![Customer Segments](https://via.placeholder.com/800x450/1e3a8a/ffffff?text=Customer+Segmentation+Matrix)
+
+### Regional Performance
+![Regional Map](https://via.placeholder.com/800x450/075985/ffffff?text=Bahamas+Regional+Performance)
+
+--- -->
 
 ## 🤝 Contributing
 
@@ -279,28 +292,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+<!-- ## 🙏 Acknowledgments
 
 - Telecommunications industry benchmarks from [Industry Source]
 - Bahamas geographic data from [Data Source]
 - Inspired by real-world telecom churn challenges
 
----
+--- -->
 
 ## 📫 Contact
 
 Questions? Feedback? Want to discuss telecom analytics?
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [@yourhandle]
+- 📧 Email: [jylesromer@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/jylesromer]
+<!-- - 🐦 Twitter: [@yourhandle] -->
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
 Made with ❤️ and lots of ☕ by Jose Romer
 
-</div>
+</div> -->
